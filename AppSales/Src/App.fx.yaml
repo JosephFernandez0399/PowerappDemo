@@ -1,0 +1,54 @@
+App As appinfo:
+    BackEnabled: =true
+    Formulas: |-
+        =MenuItem = 
+        Table(
+            {
+            Id : 1,
+            Name: "Home",
+            Icon: 'hogar',
+            Screen: App.ActiveScreen
+            },
+                {
+            Id : 2,
+            Name: "Usuarios",
+            Icon:'user-interface',
+            Screen: App.ActiveScreen
+            },
+                {
+            Id : 3,
+            Name: "Provedores",
+            Icon: 'proveedor',
+            Screen: App.ActiveScreen
+            },
+                {
+            Id : 4,
+            Name: "Inventario",
+            Icon:'listas-de-control' ,
+            Screen: App.ActiveScreen
+            },
+                    {
+            Id : 5,
+            Name: "Cerrar sesion",
+            Icon: 'cerrar-sesion',
+            Screen: App.ActiveScreen
+            }
+        );
+        MyTheme = {
+            DarkColor: "#3f768c",
+            LingColor: "#d5ecg5"
+        };
+        CompanyName = "Company Name";
+        CompanyLogo =  Icon.ShoppingCart;
+    OnStart: |-
+        =Set(varMenuSeled,1);
+        Set(varMenuopen, false);
+    Theme: =PowerAppsTheme
+
+    Host As hostControl.DefaultHostControlVariant:
+        OnCancel: =false
+        OnEdit: =false
+        OnNew: =false
+        OnSave: =false
+        OnView: =false
+

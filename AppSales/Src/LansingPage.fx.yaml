@@ -1,0 +1,5 @@
+LansingPage As screen:
+
+    SideNavigation_component_1 As SideNavigation_component:
+        Fill: =RGBA(237, 237, 237, 1)
+

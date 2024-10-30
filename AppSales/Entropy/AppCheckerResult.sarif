@@ -104,6 +104,36 @@
             {
               "logicalLocations": [
                 {
+                  "fullyQualifiedName": "App.varSaludar"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "App.varSaludar",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "varSaludar",
+                "module": "App",
+                "type": "App"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "app-UnusedVariables",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
                   "fullyQualifiedName": "App.WhatsApp Image 2024-09-23 at 17.40.23_312c5938"
                 }
               ],

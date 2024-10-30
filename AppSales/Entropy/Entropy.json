@@ -11,13 +11,14 @@
     "conToggle": 6,
     "Host": 3,
     "IconToggle": 8,
+    "Label1": 11,
     "LansingPage": 9,
     "SideNavigation_component": 4,
     "SideNavigation_component_1": 10
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "10/30/2024 21:23:17",
+  "HeaderLastSavedDateTimeUTC": "10/30/2024 21:34:58",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": true,
@@ -30,12 +31,12 @@
     "WhatsApp Image 2024-09-23 at 17.40.23_312c5938": "30540368-b4a6-43d3-b1ee-7fbfc9afe67a.jpg"
   },
   "LocalResourceRootPaths": {
-    "cerrar-sesion": "https://docserverpwaprodeus.blob.core.windows.net/6d6d5813-e914-439e-8658-4dd352d35b73-1/resource/Assets0Images00f8fd66c-f3dc-4669-ae8b-e3ba99276037.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-10-30T21%3A22%3A56Z&ske=2024-10-31T21%3A37%3A56Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-10-31T21%3A37%3A56Z&sr=b&sp=r&sig=XzaZDogB0mv%2B8uVWO%2FAk%2FJRPf0UNreoD5u8hZgnbnVw%3D",
-    "hogar": "https://docserverpwaprodeus.blob.core.windows.net/6d6d5813-e914-439e-8658-4dd352d35b73-1/resource/Assets0Images09fb62379-b50b-4ede-afbf-d2a8bcfccbfb.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-10-30T21%3A22%3A56Z&ske=2024-10-31T21%3A37%3A56Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-10-31T21%3A37%3A56Z&sr=b&sp=r&sig=j%2Blwnxsii1%2Bn7SyYepHu3DiCmfr0Hg0PPYtaNeC%2F7OY%3D",
-    "listas-de-control": "https://docserverpwaprodeus.blob.core.windows.net/6d6d5813-e914-439e-8658-4dd352d35b73-1/resource/Assets0Images0e9cced36-59fc-4374-8a2d-0e4cd2080327.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-10-30T21%3A22%3A56Z&ske=2024-10-31T21%3A37%3A56Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-10-31T21%3A37%3A56Z&sr=b&sp=r&sig=pZabgrl7zWv6pevge7hF1I%2B34oSwhhmBbiSonyBsSS8%3D",
-    "proveedor": "https://docserverpwaprodeus.blob.core.windows.net/6d6d5813-e914-439e-8658-4dd352d35b73-1/resource/Assets0Images08f547434-3864-4207-80ac-926aae73ed1e.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-10-30T21%3A22%3A56Z&ske=2024-10-31T21%3A37%3A56Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-10-31T21%3A37%3A56Z&sr=b&sp=r&sig=6Ycq%2BwUITthMR4vPWPEeiZ0Z%2BkcV3IiDAwPa6EoM4LQ%3D",
-    "user-interface": "https://docserverpwaprodeus.blob.core.windows.net/6d6d5813-e914-439e-8658-4dd352d35b73-1/resource/Assets0Images0bda4ba7e-48aa-422f-8189-9ff0bc97beff.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-10-30T21%3A22%3A56Z&ske=2024-10-31T21%3A37%3A56Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-10-31T21%3A37%3A56Z&sr=b&sp=r&sig=036PGy%2BqS%2FKyWp%2FssXGJ9N2mqsNaFqpC8IYkaHDuEnw%3D",
-    "WhatsApp Image 2024-09-23 at 17.40.23_312c5938": "https://docserverpwaprodeus.blob.core.windows.net/6d6d5813-e914-439e-8658-4dd352d35b73-1/resource/Assets0Images030540368-b4a6-43d3-b1ee-7fbfc9afe67a.jpg?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-10-30T21%3A22%3A56Z&ske=2024-10-31T21%3A37%3A56Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-10-31T21%3A37%3A56Z&sr=b&sp=r&sig=mYSLCx%2FAD9XUrPiDGYHWXyNlTBawqs0AbKVUtWawkc0%3D"
+    "cerrar-sesion": "https://docserverpwaprodwus.blob.core.windows.net/4483a08b-4713-4996-be36-6d57e0c487cc-1/resource/Assets0Images00f8fd66c-f3dc-4669-ae8b-e3ba99276037.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-10-30T21%3A29%3A27Z&ske=2024-10-31T21%3A44%3A27Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-10-31T21%3A44%3A27Z&sr=b&sp=r&sig=Y6o1FfbYueW0YziL2IpuXd6ODm2ae4E0yJZIXDuDHYo%3D",
+    "hogar": "https://docserverpwaprodwus.blob.core.windows.net/4483a08b-4713-4996-be36-6d57e0c487cc-1/resource/Assets0Images09fb62379-b50b-4ede-afbf-d2a8bcfccbfb.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-10-30T21%3A29%3A27Z&ske=2024-10-31T21%3A44%3A27Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-10-31T21%3A44%3A27Z&sr=b&sp=r&sig=shnOSdGUI63%2FHf%2BwlKH%2F%2FQ61Zy61QWJvyNQ0lsn7b5g%3D",
+    "listas-de-control": "https://docserverpwaprodwus.blob.core.windows.net/4483a08b-4713-4996-be36-6d57e0c487cc-1/resource/Assets0Images0e9cced36-59fc-4374-8a2d-0e4cd2080327.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-10-30T21%3A29%3A27Z&ske=2024-10-31T21%3A44%3A27Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-10-31T21%3A44%3A27Z&sr=b&sp=r&sig=cJJ3yHDCt9KNGuTF096e%2FYYqy4o%2Fr5Eikw02c8M6lfE%3D",
+    "proveedor": "https://docserverpwaprodwus.blob.core.windows.net/4483a08b-4713-4996-be36-6d57e0c487cc-1/resource/Assets0Images08f547434-3864-4207-80ac-926aae73ed1e.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-10-30T21%3A29%3A27Z&ske=2024-10-31T21%3A44%3A27Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-10-31T21%3A44%3A27Z&sr=b&sp=r&sig=54b8MkBlrbU3EADbT52K65Ol7AEklpdYmT6lFpq1CJ4%3D",
+    "user-interface": "https://docserverpwaprodwus.blob.core.windows.net/4483a08b-4713-4996-be36-6d57e0c487cc-1/resource/Assets0Images0bda4ba7e-48aa-422f-8189-9ff0bc97beff.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-10-30T21%3A29%3A27Z&ske=2024-10-31T21%3A44%3A27Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-10-31T21%3A44%3A27Z&sr=b&sp=r&sig=iRXkyAdsDX5TLs0M7n%2Bc0vtX9uGGFuMp2zcrqykjI6U%3D",
+    "WhatsApp Image 2024-09-23 at 17.40.23_312c5938": "https://docserverpwaprodwus.blob.core.windows.net/4483a08b-4713-4996-be36-6d57e0c487cc-1/resource/Assets0Images030540368-b4a6-43d3-b1ee-7fbfc9afe67a.jpg?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-10-30T21%3A29%3A27Z&ske=2024-10-31T21%3A44%3A27Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-10-31T21%3A44%3A27Z&sr=b&sp=r&sig=9%2Fbh8Cr3NXWZNNzki4q%2FuFhiw%2FnGpbieY1jlvHJUcmM%3D"
   },
   "OrderComponentMetadata": {
     "c979d372770446d0b82d5180a3b7a41a": 0
@@ -52,7 +53,8 @@
   "OrderXMLTemplate": {
     "button": 1,
     "groupContainer": 0,
-    "icon": 2
+    "icon": 2,
+    "label": 3
   },
   "OverridablePropertiesEntry": {
     "App": {},
@@ -61,6 +63,7 @@
     "conToggle": {},
     "Host": {},
     "IconToggle": {},
+    "Label1": {},
     "LansingPage": {},
     "SideNavigation_component": {},
     "SideNavigation_component_1": {}
@@ -74,6 +77,7 @@
     "conToggle": 2,
     "Host": 0,
     "IconToggle": 4,
+    "Label1": 0,
     "LansingPage": 0,
     "SideNavigation_component": 0,
     "SideNavigation_component_1": 0
@@ -90,7 +94,7 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.1625882,
+    "AnalysisLoadTime": 0.1666337,
     "ControlCount": {
       "button": 1,
       "c979d372770446d0b82d5180a3b7a41a": 2,
@@ -98,7 +102,7 @@
       "icon": 1,
       "screen": 1
     },
-    "DeserializationLoadTime": 2.9341879
+    "DeserializationLoadTime": 1.0136617
   },
   "WasLocalDatabaseReferencesEmpty": true
 }

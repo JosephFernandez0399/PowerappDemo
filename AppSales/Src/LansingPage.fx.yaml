@@ -3,3 +3,9 @@ LansingPage As screen:
     SideNavigation_component_1 As SideNavigation_component:
         Fill: =RGBA(237, 237, 237, 1)
 
+    Label1 As label:
+        Text: ="Texto"
+        X: =465
+        Y: =165
+        ZIndex: =2
+

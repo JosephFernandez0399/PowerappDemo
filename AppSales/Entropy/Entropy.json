@@ -17,7 +17,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "10/29/2024 22:05:41",
+  "HeaderLastSavedDateTimeUTC": "10/30/2024 21:23:17",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": true,
@@ -30,12 +30,12 @@
     "WhatsApp Image 2024-09-23 at 17.40.23_312c5938": "30540368-b4a6-43d3-b1ee-7fbfc9afe67a.jpg"
   },
   "LocalResourceRootPaths": {
-    "cerrar-sesion": "https://docserverpwaprodwus.blob.core.windows.net/6834fa02-447f-4cef-9dcd-7c805261e822-1/resource/Assets0Images00f8fd66c-f3dc-4669-ae8b-e3ba99276037.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-10-29T21%3A57%3A07Z&ske=2024-10-30T22%3A12%3A07Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-10-30T22%3A12%3A07Z&sr=b&sp=r&sig=zO%2BwhC7phchZWjYMaKWzn9RuugqqiH0ZTa54Mom%2FYnc%3D",
-    "hogar": "https://docserverpwaprodwus.blob.core.windows.net/6834fa02-447f-4cef-9dcd-7c805261e822-1/resource/Assets0Images09fb62379-b50b-4ede-afbf-d2a8bcfccbfb.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-10-29T21%3A57%3A07Z&ske=2024-10-30T22%3A12%3A07Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-10-30T22%3A12%3A07Z&sr=b&sp=r&sig=s4ZFb2pTnZicq1CtbhhLHnu4yOtkligLK16WiESVCPw%3D",
-    "listas-de-control": "https://docserverpwaprodwus.blob.core.windows.net/6834fa02-447f-4cef-9dcd-7c805261e822-1/resource/Assets0Images0e9cced36-59fc-4374-8a2d-0e4cd2080327.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-10-29T21%3A57%3A07Z&ske=2024-10-30T22%3A12%3A07Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-10-30T22%3A12%3A07Z&sr=b&sp=r&sig=oUmW5qdnBPVKtqZ8pRknLi04pZETPDJEORB5z2soX5k%3D",
-    "proveedor": "https://docserverpwaprodwus.blob.core.windows.net/6834fa02-447f-4cef-9dcd-7c805261e822-1/resource/Assets0Images08f547434-3864-4207-80ac-926aae73ed1e.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-10-29T21%3A57%3A07Z&ske=2024-10-30T22%3A12%3A07Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-10-30T22%3A12%3A07Z&sr=b&sp=r&sig=EQtac2kTqu7BwbBUYXyInWfyuB%2FRDSxWOXecw9aq6Co%3D",
-    "user-interface": "https://docserverpwaprodwus.blob.core.windows.net/6834fa02-447f-4cef-9dcd-7c805261e822-1/resource/Assets0Images0bda4ba7e-48aa-422f-8189-9ff0bc97beff.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-10-29T21%3A57%3A07Z&ske=2024-10-30T22%3A12%3A07Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-10-30T22%3A12%3A07Z&sr=b&sp=r&sig=9lpSEdlbk6STfwsk6IFOG%2FHj3os%2FYGCGdGzx7y9YbyQ%3D",
-    "WhatsApp Image 2024-09-23 at 17.40.23_312c5938": "https://docserverpwaprodwus.blob.core.windows.net/6834fa02-447f-4cef-9dcd-7c805261e822-1/resource/Assets0Images030540368-b4a6-43d3-b1ee-7fbfc9afe67a.jpg?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-10-29T21%3A57%3A07Z&ske=2024-10-30T22%3A12%3A07Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-10-30T22%3A12%3A07Z&sr=b&sp=r&sig=qefeUUGYvIum8hAg8FDuTpipu0BSP9tkC7HsSEvWR1o%3D"
+    "cerrar-sesion": "https://docserverpwaprodeus.blob.core.windows.net/6d6d5813-e914-439e-8658-4dd352d35b73-1/resource/Assets0Images00f8fd66c-f3dc-4669-ae8b-e3ba99276037.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-10-30T21%3A22%3A56Z&ske=2024-10-31T21%3A37%3A56Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-10-31T21%3A37%3A56Z&sr=b&sp=r&sig=XzaZDogB0mv%2B8uVWO%2FAk%2FJRPf0UNreoD5u8hZgnbnVw%3D",
+    "hogar": "https://docserverpwaprodeus.blob.core.windows.net/6d6d5813-e914-439e-8658-4dd352d35b73-1/resource/Assets0Images09fb62379-b50b-4ede-afbf-d2a8bcfccbfb.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-10-30T21%3A22%3A56Z&ske=2024-10-31T21%3A37%3A56Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-10-31T21%3A37%3A56Z&sr=b&sp=r&sig=j%2Blwnxsii1%2Bn7SyYepHu3DiCmfr0Hg0PPYtaNeC%2F7OY%3D",
+    "listas-de-control": "https://docserverpwaprodeus.blob.core.windows.net/6d6d5813-e914-439e-8658-4dd352d35b73-1/resource/Assets0Images0e9cced36-59fc-4374-8a2d-0e4cd2080327.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-10-30T21%3A22%3A56Z&ske=2024-10-31T21%3A37%3A56Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-10-31T21%3A37%3A56Z&sr=b&sp=r&sig=pZabgrl7zWv6pevge7hF1I%2B34oSwhhmBbiSonyBsSS8%3D",
+    "proveedor": "https://docserverpwaprodeus.blob.core.windows.net/6d6d5813-e914-439e-8658-4dd352d35b73-1/resource/Assets0Images08f547434-3864-4207-80ac-926aae73ed1e.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-10-30T21%3A22%3A56Z&ske=2024-10-31T21%3A37%3A56Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-10-31T21%3A37%3A56Z&sr=b&sp=r&sig=6Ycq%2BwUITthMR4vPWPEeiZ0Z%2BkcV3IiDAwPa6EoM4LQ%3D",
+    "user-interface": "https://docserverpwaprodeus.blob.core.windows.net/6d6d5813-e914-439e-8658-4dd352d35b73-1/resource/Assets0Images0bda4ba7e-48aa-422f-8189-9ff0bc97beff.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-10-30T21%3A22%3A56Z&ske=2024-10-31T21%3A37%3A56Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-10-31T21%3A37%3A56Z&sr=b&sp=r&sig=036PGy%2BqS%2FKyWp%2FssXGJ9N2mqsNaFqpC8IYkaHDuEnw%3D",
+    "WhatsApp Image 2024-09-23 at 17.40.23_312c5938": "https://docserverpwaprodeus.blob.core.windows.net/6d6d5813-e914-439e-8658-4dd352d35b73-1/resource/Assets0Images030540368-b4a6-43d3-b1ee-7fbfc9afe67a.jpg?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-10-30T21%3A22%3A56Z&ske=2024-10-31T21%3A37%3A56Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-10-31T21%3A37%3A56Z&sr=b&sp=r&sig=mYSLCx%2FAD9XUrPiDGYHWXyNlTBawqs0AbKVUtWawkc0%3D"
   },
   "OrderComponentMetadata": {
     "c979d372770446d0b82d5180a3b7a41a": 0
@@ -90,7 +90,7 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.1364712,
+    "AnalysisLoadTime": 0.1625882,
     "ControlCount": {
       "button": 1,
       "c979d372770446d0b82d5180a3b7a41a": 2,
@@ -98,7 +98,7 @@
       "icon": 1,
       "screen": 1
     },
-    "DeserializationLoadTime": 1.5430215
+    "DeserializationLoadTime": 2.9341879
   },
   "WasLocalDatabaseReferencesEmpty": true
 }

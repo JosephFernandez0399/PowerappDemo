@@ -1,0 +1,116 @@
+{
+  "ComponentIndexes": {
+    "SideNavigation_component": 1,
+    "SideNavigation_component_1": 1
+  },
+  "ControlUniqueGuids": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "btnToggleSelect": 7,
+    "buttonAdIf": 12,
+    "ConRoot": 5,
+    "conToggle": 6,
+    "Host": 3,
+    "IconToggle": 8,
+    "Label1": 11,
+    "LansingPage": 9,
+    "SideNavigation_component": 4,
+    "SideNavigation_component_1": 10,
+    "TextInput1": 13
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "11/04/2024 17:08:32",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {},
+  "LocalDatabaseReferencesAsEmpty": true,
+  "LocalResourceFileNames": {
+    "cerrar-sesion": "0f8fd66c-f3dc-4669-ae8b-e3ba99276037.png",
+    "hogar": "9fb62379-b50b-4ede-afbf-d2a8bcfccbfb.png",
+    "listas-de-control": "e9cced36-59fc-4374-8a2d-0e4cd2080327.png",
+    "proveedor": "8f547434-3864-4207-80ac-926aae73ed1e.png",
+    "user-interface": "bda4ba7e-48aa-422f-8189-9ff0bc97beff.png",
+    "WhatsApp Image 2024-09-23 at 17.40.23_312c5938": "30540368-b4a6-43d3-b1ee-7fbfc9afe67a.jpg"
+  },
+  "LocalResourceRootPaths": {
+    "cerrar-sesion": "https://docserverpwaprodeus.blob.core.windows.net/68ead275-920f-4d49-9128-9f16920058da-1/resource/Assets0Images00f8fd66c-f3dc-4669-ae8b-e3ba99276037.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-11-04T17%3A07%3A46Z&ske=2024-11-05T17%3A22%3A46Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-11-05T17%3A22%3A46Z&sr=b&sp=r&sig=xexVVtqAJbwLybqWytX6havPlWwRrPn6FE8fKeTrwSU%3D",
+    "hogar": "https://docserverpwaprodeus.blob.core.windows.net/68ead275-920f-4d49-9128-9f16920058da-1/resource/Assets0Images09fb62379-b50b-4ede-afbf-d2a8bcfccbfb.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-11-04T17%3A07%3A46Z&ske=2024-11-05T17%3A22%3A46Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-11-05T17%3A22%3A46Z&sr=b&sp=r&sig=h3WkYg8NkDWL7KJ3z4NcZv32YqkOxRhDkzNhosfudHc%3D",
+    "listas-de-control": "https://docserverpwaprodeus.blob.core.windows.net/68ead275-920f-4d49-9128-9f16920058da-1/resource/Assets0Images0e9cced36-59fc-4374-8a2d-0e4cd2080327.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-11-04T17%3A07%3A46Z&ske=2024-11-05T17%3A22%3A46Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-11-05T17%3A22%3A46Z&sr=b&sp=r&sig=KADEtrONCvk6xkDzLEC9uw%2FoL2NlGVWYsGIzsk73N%2FM%3D",
+    "proveedor": "https://docserverpwaprodeus.blob.core.windows.net/68ead275-920f-4d49-9128-9f16920058da-1/resource/Assets0Images08f547434-3864-4207-80ac-926aae73ed1e.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-11-04T17%3A07%3A46Z&ske=2024-11-05T17%3A22%3A46Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-11-05T17%3A22%3A46Z&sr=b&sp=r&sig=QSB5MXkFL3PVCUgkQLVV7qu0Al%2FlpjeGSwnX1NxhtvI%3D",
+    "user-interface": "https://docserverpwaprodeus.blob.core.windows.net/68ead275-920f-4d49-9128-9f16920058da-1/resource/Assets0Images0bda4ba7e-48aa-422f-8189-9ff0bc97beff.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-11-04T17%3A07%3A46Z&ske=2024-11-05T17%3A22%3A46Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-11-05T17%3A22%3A46Z&sr=b&sp=r&sig=z%2B5ononYkj3aSFqbC6EYEKy%2FeMYwV3jPRhZEqpZ9o7c%3D",
+    "WhatsApp Image 2024-09-23 at 17.40.23_312c5938": "https://docserverpwaprodeus.blob.core.windows.net/68ead275-920f-4d49-9128-9f16920058da-1/resource/Assets0Images030540368-b4a6-43d3-b1ee-7fbfc9afe67a.jpg?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-11-04T17%3A07%3A46Z&ske=2024-11-05T17%3A22%3A46Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-11-05T17%3A22%3A46Z&sr=b&sp=r&sig=D%2B8wtFlNAtmKRyiIRSbgICIY%2BLjAU6AYNGCRiIgP%2BsA%3D"
+  },
+  "OrderComponentMetadata": {
+    "c979d372770446d0b82d5180a3b7a41a": 0
+  },
+  "OrderComponentTemplate": {
+    "c979d372770446d0b82d5180a3b7a41a": 0
+  },
+  "OrderDataSource": {
+    "CustomGallerySample": 0
+  },
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "button": 1,
+    "groupContainer": 0,
+    "icon": 2,
+    "label": 3,
+    "text": 4
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "btnToggleSelect": {},
+    "buttonAdIf": {},
+    "ConRoot": {},
+    "conToggle": {},
+    "Host": {},
+    "IconToggle": {},
+    "Label1": {},
+    "LansingPage": {},
+    "SideNavigation_component": {},
+    "SideNavigation_component_1": {},
+    "TextInput1": {}
+  },
+  "PCFDynamicSchemaForIRRetrievalEntry": {},
+  "PCFTemplateEntry": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "btnToggleSelect": 3,
+    "buttonAdIf": 0,
+    "ConRoot": 1,
+    "conToggle": 2,
+    "Host": 0,
+    "IconToggle": 4,
+    "Label1": 0,
+    "LansingPage": 0,
+    "SideNavigation_component": 0,
+    "SideNavigation_component_1": 0,
+    "TextInput1": 0
+  },
+  "ResourcesJsonIndices": {
+    "Image-cerrar-sesion": 6,
+    "Image-hogar": 5,
+    "Image-listas-de-control": 2,
+    "Image-proveedor": 3,
+    "Image-SampleImage": 0,
+    "Image-user-interface": 4,
+    "Image-WhatsApp Image 2024-09-23 at 17.40.23_312c5938": 1
+  },
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.168715,
+    "ControlCount": {
+      "button": 2,
+      "c979d372770446d0b82d5180a3b7a41a": 2,
+      "groupContainer": 2,
+      "icon": 1,
+      "label": 1,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 1.9496076
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}

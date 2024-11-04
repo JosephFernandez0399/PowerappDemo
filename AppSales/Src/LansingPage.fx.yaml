@@ -1,0 +1,24 @@
+LansingPage As screen:
+
+    SideNavigation_component_1 As SideNavigation_component:
+        Fill: =RGBA(237, 237, 237, 1)
+
+    Label1 As label:
+        Text: ="Mi nombre es joseph"
+        X: =465
+        Y: =165
+        ZIndex: =2
+
+    buttonAdIf As button:
+        OnSelect: =Set(varSaludar,false)
+        Text: ="Botón"
+        X: =465
+        Y: =265
+        ZIndex: =3
+
+    TextInput1 As text:
+        Default: ="Hola mundo"
+        X: =160
+        Y: =52
+        ZIndex: =4
+

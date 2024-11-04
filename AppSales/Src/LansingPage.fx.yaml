@@ -10,7 +10,7 @@ LansingPage As screen:
         ZIndex: =2
 
     buttonAdIf As button:
-        OnSelect: =Set(varSaludar,false)
+        OnSelect: =Set(varSaludar2,false)
         Text: ="Botón"
         X: =465
         Y: =265

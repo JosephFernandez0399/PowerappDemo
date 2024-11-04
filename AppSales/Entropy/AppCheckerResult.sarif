@@ -134,17 +134,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "App.varSaludar"
+                  "fullyQualifiedName": "App.varSaludar2"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "App.varSaludar",
+                  "fullyQualifiedName": "App.varSaludar2",
                   "relativeAddress": 0
                 }
               },
               "properties": {
-                "member": "varSaludar",
+                "member": "varSaludar2",
                 "module": "App",
                 "type": "App"
               }

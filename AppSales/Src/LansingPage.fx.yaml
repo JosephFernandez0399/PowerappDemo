@@ -16,3 +16,9 @@ LansingPage As screen:
         Y: =265
         ZIndex: =3
 
+    TextInput1 As text:
+        Default: ="Hola mundo"
+        X: =160
+        Y: =52
+        ZIndex: =4
+
